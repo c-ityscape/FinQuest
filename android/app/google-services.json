@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953093278087",
+    "project_id": "finquest2-8af5e",
+    "storage_bucket": "finquest2-8af5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953093278087:android:29b6250b9a8fdfadd92b22",
+        "android_client_info": {
+          "package_name": "com.example.finquest2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_yczsPgRLQBzgDE-3LEX_Sg3YEH22l4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
